@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @vinu75kanth
-- 👀 I’m interested in coding("python") #print("Hello World")
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python proj
+- 👋 Hi, I’m Vinu Kanth :)
+- 👀 I’m interested in coding {
+                                'Python'     : 'Intermediate',
+                                'HTML'       : 'Intermediate',
+                                'CSS'        : 'Intermediate',
+                                'JavaScript' : 'Intermediate',
+                                'Java'       : 'Intermediate',
+                              }
+- 💞️ I’m looking to collaborate on any proj where I would prove to be an valuable asset to the Proj
 - 📫 How to reach me vinukanth75@gmail.com
 
 <!---
