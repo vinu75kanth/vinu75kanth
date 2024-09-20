@@ -1,10 +1,17 @@
 - 👋 Hi, I’m Vinu Kanth :)
 - 👀 I’m interested in coding {
-                                'Python'     : 'Intermediate',
-                                'HTML'       : 'Intermediate',
-                                'CSS'        : 'Intermediate',
-                                'JavaScript' : 'Intermediate',
-                                'Java'       : 'Intermediate',
+                                'Python'       : 'Intermediate',
+                                'HTML'         : 'Proficient',
+                                'CSS'          : 'Proficient',
+                                'JavaScript'   : 'Proficient',
+                                'Java'         : 'Proficient',
+                                'TypeScript'   : 'Intermediate'.
+                                'JDBC'         : 'Proficient',
+                                'Hibernate'    : 'Intermediate',  
+                                'JPA'          : 'Intermediate',
+                                'Spring Boot'  : 'Intermediate',
+                                'MicroServices': 'Intermediate',
+                                'Rest API'     : 'Intermediate'
                               }
 - 💞️ I’m looking to collaborate on any proj where I would prove to be an valuable asset to the Proj
 - 📫 How to reach me vinukanth75@gmail.com
